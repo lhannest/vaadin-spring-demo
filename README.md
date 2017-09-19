@@ -12,4 +12,4 @@ java -jar build/libs/vaadin-spring-demo-0.0.1-SNAPSHOT.jar
 Open your browser to http://localhost:8080 to see it.
 
 
-[screen shot](https://github.com/lhannest/vaadin-spring-demo/raw/master/screenshot.png)
+![screen shot](https://github.com/lhannest/vaadin-spring-demo/raw/master/screenshot.png)
