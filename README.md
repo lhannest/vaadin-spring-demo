@@ -1,7 +1,7 @@
 # vaadin-spring-demo
 A demo application showing vaadin and spring
 
-To build use (gradle)[https://gradle.org/install/]:
+To build use [gradle](https://gradle.org/install/):
 ```
 gradle build
 ```
